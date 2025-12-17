@@ -22,18 +22,26 @@ When I’m not coding, I’m probably:
 
 ## 🔧 My Toolbox
 **Languages:** Java | Python | JavaScript | TypeScript | SQL  
+
 **Frontend:** ReactJS | Angular | HTML | CSS | Bootstrap | Figma  
+
 **Backend:** Node.js | Express.js | Django | REST APIs | Microservices | Redis  
+
 **Databases:** MySQL | PostgreSQL | MongoDB | NoSQL  
+
 **Cloud & DevOps:** Azure | Docker | CI/CD (Azure DevOps, GitHub Actions)  
+
 **AI & Data:** Scikit-learn | NLP | Prompt Engineering | Power BI | Tableau  
 
 ---
 
 ## 🚀 Projects I’m Proud Of
-- **LLM Verification & Validation** – Tested and improved large language models like ChatGPT, Bard AI, Llama  
-- **Pharmacy Management System** – Full-stack web app to manage inventory, billing, and customers  
-- **Cybercrime Prevention** – Java + ML project to detect and prevent anomalies in cybersecurity  
+- **LLM Verification & Validation** – Tested and improved large language models like ChatGPT, Bard AI, Llama
+  
+- **Pharmacy Management System** – Full-stack web app to manage inventory, billing, and customers
+  
+- **Cybercrime Prevention** – Java + ML project to detect and prevent anomalies in cybersecurity
+  
 - **Music Streamer** – Node.js + MongoDB backend for managing multiple users and streaming data  
 
 ---
@@ -42,8 +50,10 @@ When I’m not coding, I’m probably:
 I’m always open to collaborating on fun projects, sharing knowledge, or just geeking out over tech!  
 
 📫 Email: [kommidirithikareddy@gmail.com](mailto:kommidirithikareddy@gmail.com)  
+
 🔗 LinkedIn: [Rithika Reddy Kommidi](https://www.linkedin.com/in/r-analyst/)  
-🌐 Portfolio: [My Work](#)  
+
+🌐 Portfolio: [coming soon](#)  
 
 ---
 
