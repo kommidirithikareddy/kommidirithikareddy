@@ -41,8 +41,8 @@ When I’m not coding, I’m probably:
 ## 🌐 Let’s Connect!
 I’m always open to collaborating on fun projects, sharing knowledge, or just geeking out over tech!  
 
-📫 Email: [kommidirithikareddy1@gmail.com](mailto:kommidirithikareddy1@gmail.com)  
-🔗 LinkedIn: [Rithika Reddy Kommidi](#)  
+📫 Email: [kommidirithikareddy@gmail.com](mailto:kommidirithikareddy@gmail.com)  
+🔗 LinkedIn: [Rithika Reddy Kommidi](https://www.linkedin.com/in/r-analyst/)  
 🌐 Portfolio: [My Work](#)  
 
 ---
