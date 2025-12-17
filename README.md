@@ -56,5 +56,6 @@ I’m always open to collaborating on fun projects, sharing knowledge, or just g
 🌐 Portfolio: [coming soon](#)  
 
 ---
+## “Progress comes from curiosity and consistency.”
 
-✨ Thanks for stopping by! May your code always compile and your coffee always be strong ☕💻
+✨ Always learning, always building. Thanks for stopping by!💻
