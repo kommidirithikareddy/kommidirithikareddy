@@ -13,17 +13,17 @@ I'm a Full Stack Developer, UI/UX Designer, Data Enthusiast, and AI Explorer ðŸš
 ---
 
 ## ðŸ”§ My Toolbox
-**Languages:** Java | Python | JavaScript | TypeScript | SQL  
 
-**Frontend:** ReactJS | Angular | HTML | CSS | Bootstrap | Figma  
+```javascript
+const rithika = {
+  languages: ["Java", "Python", "JavaScript", "TypeScript", "SQL"],
+  frontend: ["React", "Angular", "HTML", "CSS", "Bootstrap", "Figma"],
+  backend: ["Node.js", "Express.js", "Django", "REST APIs", "Microservices", "Redis"],
+  databases: ["MySQL", "PostgreSQL", "MongoDB", "NoSQL"],
+  cloudDevOps: ["Azure", "Docker", "CI/CD", "GitHub Actions", "Azure DevOps"],
+  aiAndData: ["Scikit-learn", "NLP", "Prompt Engineering", "Power BI", "Tableau"]
+};
 
-**Backend:** Node.js | Express.js | Django | REST APIs | Microservices | Redis  
-
-**Databases:** MySQL | PostgreSQL | MongoDB | NoSQL  
-
-**Cloud & DevOps:** Azure | Docker | CI/CD (Azure DevOps, GitHub Actions)  
-
-**AI & Data:** Scikit-learn | NLP | Prompt Engineering | Power BI | Tableau  
 
 ---
 
