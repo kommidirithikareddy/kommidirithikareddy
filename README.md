@@ -1,3 +1,7 @@
+
+
+<img src="banner.png" alt="Banner" width="100%">
+
 # 👋 Hey there, I'm Rithika!  
 
 I'm a Full Stack Developer, UI/UX Designer, Data Enthusiast, and AI Explorer 🚀. I love building things that solve real-world problems and make life easier—or at least more fun!  
@@ -35,6 +39,13 @@ const rithika = {
 - **Cybercrime Prevention** – Java + ML project to detect and prevent anomalies in cybersecurity
   
 - **Music Streamer** – Node.js + MongoDB backend for managing multiple users and streaming data  
+
+---
+
+## 🧩 Fun Facts
+- I debug like it’s a puzzle 🧩
+- I enjoy turning complex problems into clean UIs
+- Music + coding = perfect focus 🎧
 
 ---
 
