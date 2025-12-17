@@ -71,6 +71,6 @@ I’m always open to collaborating on fun projects, sharing knowledge, or just g
 > “Progress comes from curiosity and consistency.” 
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kommidirithikareddy&layout=compact&theme=tokyonight)
 ---
 Thanks for visiting — let’s keep building, learning, and growing.💻
