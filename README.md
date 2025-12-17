@@ -24,7 +24,7 @@ const rithika = {
   aiAndData: ["Scikit-learn", "NLP", "Prompt Engineering", "Power BI", "Tableau"]
 };
 
-
+```
 ---
 
 ## 🚀 Projects I’m Proud Of
