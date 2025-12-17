@@ -60,9 +60,9 @@ I’m always open to collaborating on fun projects, sharing knowledge, or just g
 
 ---
 
-## ✨ A little motivation
+## 💬 Thought of the Moment
 
-“Progress comes from curiosity and consistency.” 
+> “Progress comes from curiosity and consistency.” 
 
 ---
 
