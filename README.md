@@ -12,11 +12,7 @@ I'm a Full Stack Developer, UI/UX Designer, Data Enthusiast, and AI Explorer �
 
 ---
 
-## 💡 Fun Side of Coding
-When I’m not coding, I’m probably:  
-- 🎵 Jamming to music while optimizing my code  
-- ☕ Drinking way too much coffee and debugging like a detective  
-- 📚 Experimenting with AI models and learning new frameworks  
+## “Progress comes from curiosity and consistency.”
 
 ---
 
@@ -56,6 +52,5 @@ I’m always open to collaborating on fun projects, sharing knowledge, or just g
 🌐 Portfolio: [coming soon](#)  
 
 ---
-## “Progress comes from curiosity and consistency.”
 
 ✨ Always learning, always building. Thanks for stopping by!💻
