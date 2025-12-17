@@ -12,7 +12,7 @@ I'm a Full Stack Developer, UI/UX Designer, Data Enthusiast, and AI Explorer �
 
 ---
 
-## “Progress comes from curiosity and consistency.”
+## “Progress comes from curiosity and consistency.” ##
 
 ---
 
