@@ -49,6 +49,12 @@ const rithika = {
 
 ---
 
+## 🌱 Currently Working On
+- Building **modern web applications** with a focus on **front-end development** and **UI/UX design**  
+- Exploring **AI/ML projects**, including **LLMs, NLP, and predictive models**  
+- Developing **interactive dashboards** and data-driven tools  
+
+---
 ## 🌐 Let’s Connect!
 I’m always open to collaborating on fun projects, sharing knowledge, or just geeking out over tech!  
 
@@ -65,5 +71,6 @@ I’m always open to collaborating on fun projects, sharing knowledge, or just g
 > “Progress comes from curiosity and consistency.” 
 
 ---
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+---
 Thanks for visiting — let’s keep building, learning, and growing.💻
