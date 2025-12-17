@@ -12,10 +12,6 @@ I'm a Full Stack Developer, UI/UX Designer, Data Enthusiast, and AI Explorer �
 
 ---
 
-## “Progress comes from curiosity and consistency.” ##
-
----
-
 ## 🔧 My Toolbox
 **Languages:** Java | Python | JavaScript | TypeScript | SQL  
 
@@ -53,4 +49,10 @@ I’m always open to collaborating on fun projects, sharing knowledge, or just g
 
 ---
 
-✨ Always learning, always building. Thanks for stopping by!💻
+## ✨ A little motivation
+
+“Progress comes from curiosity and consistency.” 
+
+---
+
+Thanks for visiting — let’s keep building, learning, and growing.💻
