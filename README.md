@@ -60,7 +60,7 @@ I’m always open to collaborating on fun projects, sharing knowledge, or just g
 
 📫 Email: [kommidirithikareddy@gmail.com](mailto:kommidirithikareddy@gmail.com)  
 
-🔗 LinkedIn: [Rithika Reddy Kommidi](https://www.linkedin.com/in/r-analyst/)  
+🔗 LinkedIn: [Rithika Reddy Kommidi](https://www.linkedin.com/in/kommidirithikareddy/)  
 
 🌐 Portfolio: [coming soon](#)  
 
