@@ -62,7 +62,7 @@ I’m always open to collaborating on fun projects, sharing knowledge, or just g
 
 🔗 LinkedIn: [Rithika Reddy Kommidi](https://www.linkedin.com/in/kommidirithikareddy/)  
 
-🌐 Portfolio: [coming soon](#)  
+🌐 Portfolio: [My_Website](https://kommidirithikareddy.vercel.app/)  
 
 ---
 
