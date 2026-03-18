@@ -1,55 +1,33 @@
 <div align="center">
 
-<!--  SVG Animated Header — renders natively on GitHub, no external service needed -->
+<!-- SVG Header — Clean Minimal, renders natively on GitHub -->
 <svg width="860" height="180" viewBox="0 0 860 180" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="50%" style="stop-color:#161b22"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
+    <linearGradient id="b6ac" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1"/>
+      <stop offset="100%" style="stop-color:#06b6d4"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#58a6ff"/>
-      <stop offset="100%" style="stop-color:#bc8cff"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
   </defs>
-
-  <!-- Background -->
-  <rect width="860" height="180" rx="16" fill="url(#bg)"/>
-
-  <!-- Subtle grid lines -->
-  <line x1="0" y1="60" x2="860" y2="60" stroke="#ffffff08" stroke-width="1"/>
-  <line x1="0" y1="120" x2="860" y2="120" stroke="#ffffff08" stroke-width="1"/>
-  <line x1="215" y1="0" x2="215" y2="180" stroke="#ffffff08" stroke-width="1"/>
-  <line x1="430" y1="0" x2="430" y2="180" stroke="#ffffff08" stroke-width="1"/>
-  <line x1="645" y1="0" x2="645" y2="180" stroke="#ffffff08" stroke-width="1"/>
-
-  <!-- Glowing circles decoration -->
-  <circle cx="760" cy="40" r="60" fill="#58a6ff" opacity="0.06"/>
-  <circle cx="100" cy="150" r="50" fill="#bc8cff" opacity="0.07"/>
-
-  <!-- Accent bar -->
-  <rect x="60" y="52" width="4" height="76" rx="2" fill="url(#accent)"/>
-
+  <rect width="860" height="180" rx="16" fill="#ffffff"/>
+  <rect x="0" y="0" width="860" height="180" rx="16" fill="none" stroke="#e5e7eb" stroke-width="1.5"/>
+  <!-- Diagonal lines decoration -->
+  <line x1="640" y1="0"   x2="860" y2="130" stroke="#f3f4f6" stroke-width="16"/>
+  <line x1="690" y1="0"   x2="860" y2="105" stroke="#f9fafb" stroke-width="22"/>
+  <line x1="740" y1="0"   x2="860" y2="80"  stroke="#f3f4f6" stroke-width="14"/>
+  <line x1="790" y1="0"   x2="860" y2="55"  stroke="#f9fafb" stroke-width="18"/>
+  <line x1="830" y1="0"   x2="860" y2="25"  stroke="#f3f4f6" stroke-width="12"/>
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="6" height="180" rx="3" fill="url(#b6ac)"/>
+  <rect x="56" y="46" width="4" height="88" rx="2" fill="url(#b6ac)"/>
   <!-- Name -->
-  <text x="80" y="90" font-family="'Segoe UI', system-ui, sans-serif" font-size="32" font-weight="700" fill="#ffffff" filter="url(#glow)">Kommidi Rithika Reddy</text>
-
+  <text x="78" y="96" font-family="'Segoe UI', system-ui, sans-serif" font-size="34" font-weight="700" fill="#111827">Kommidi Rithika Reddy</text>
   <!-- Tagline -->
-  <text x="80" y="118" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="400" fill="#8b949e">Full Stack Developer  ·  UI/UX Designer  ·  AI &amp; Data Enthusiast</text>
-
+  <text x="78" y="124" font-family="'Segoe UI', system-ui, sans-serif" font-size="14.5" font-weight="400" fill="#6b7280">Full Stack Developer  ·  UI/UX Designer  ·  AI &amp; Data Enthusiast</text>
   <!-- Status pill -->
-  <rect x="80" y="133" width="220" height="24" rx="12" fill="#238636" opacity="0.85"/>
-  <circle cx="97" cy="145" r="4" fill="#3fb950"/>
-  <text x="108" y="149.5" font-family="'Segoe UI', system-ui, sans-serif" font-size="11.5" font-weight="600" fill="#ffffff">Open to Work · San Jose, CA</text>
-
-  <!-- Dots decoration -->
-  <circle cx="700" cy="90" r="3" fill="#58a6ff" opacity="0.7"/>
-  <circle cx="716" cy="90" r="3" fill="#bc8cff" opacity="0.7"/>
-  <circle cx="732" cy="90" r="3" fill="#58a6ff" opacity="0.7"/>
+  <rect x="78" y="138" width="218" height="24" rx="12" fill="url(#b6ac)" opacity="0.12"/>
+  <rect x="78" y="138" width="218" height="24" rx="12" fill="none" stroke="#6366f1" stroke-width="1" opacity="0.5"/>
+  <circle cx="94" cy="150" r="4" fill="#6366f1"/>
+  <text x="105" y="154.5" font-family="'Segoe UI', system-ui, sans-serif" font-size="11.5" font-weight="600" fill="#4f46e5">Open to Work · San Jose, CA</text>
 </svg>
 
 <!-- Typing SVG -->
@@ -151,16 +129,6 @@ Hey! I'm **Rithika** — a passionate **Full Stack Developer** based in **San Jo
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kommidirithikareddy&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🌱 Currently Exploring
 
 - 🧠 **Agentic AI** — Building AI agents with LangChain and LLM orchestration
@@ -185,21 +153,16 @@ I'm actively looking for **Full Stack**, **Front-End**, or **AI-adjacent** roles
 <!-- SVG Footer -->
 <svg width="860" height="60" viewBox="0 0 860 60" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="footerbg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="50%" style="stop-color:#161b22"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
-    </linearGradient>
-    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="30%" style="stop-color:#58a6ff"/>
-      <stop offset="70%" style="stop-color:#bc8cff"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
+    <linearGradient id="ftline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#ffffff"/>
+      <stop offset="30%"  style="stop-color:#6366f1"/>
+      <stop offset="70%"  style="stop-color:#06b6d4"/>
+      <stop offset="100%" style="stop-color:#ffffff"/>
     </linearGradient>
   </defs>
-  <rect width="860" height="60" rx="0" fill="url(#footerbg)"/>
-  <rect x="0" y="0" width="860" height="3" fill="url(#line)"/>
-  <text x="430" y="38" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8b949e">Thanks for visiting — let's build something great together 💻</text>
+  <rect width="860" height="60" rx="0" fill="#ffffff"/>
+  <rect x="0" y="0" width="860" height="2" fill="url(#ftline)"/>
+  <text x="430" y="38" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#9ca3af">Thanks for visiting — let's build something great together 💻</text>
 </svg>
 
 </div>
