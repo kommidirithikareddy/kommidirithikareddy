@@ -1,33 +1,47 @@
 <div align="center">
 
-<!-- SVG Header — Clean Minimal, renders natively on GitHub -->
-<svg width="860" height="180" viewBox="0 0 860 180" xmlns="http://www.w3.org/2000/svg">
+<!-- SVG Header — Style C Pastel Yellow Split + Timeline, renders natively on GitHub -->
+<svg width="860" height="170" viewBox="0 0 860 170" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="b6ac" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6366f1"/>
-      <stop offset="100%" style="stop-color:#06b6d4"/>
+    <linearGradient id="cy-left" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fef08a"/>
+      <stop offset="100%" style="stop-color:#fde047"/>
+    </linearGradient>
+    <linearGradient id="cy-right" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fffdf0"/>
+      <stop offset="100%" style="stop-color:#fefce8"/>
     </linearGradient>
   </defs>
-  <rect width="860" height="180" rx="16" fill="#ffffff"/>
-  <rect x="0" y="0" width="860" height="180" rx="16" fill="none" stroke="#e5e7eb" stroke-width="1.5"/>
-  <!-- Diagonal lines decoration -->
-  <line x1="640" y1="0"   x2="860" y2="130" stroke="#f3f4f6" stroke-width="16"/>
-  <line x1="690" y1="0"   x2="860" y2="105" stroke="#f9fafb" stroke-width="22"/>
-  <line x1="740" y1="0"   x2="860" y2="80"  stroke="#f3f4f6" stroke-width="14"/>
-  <line x1="790" y1="0"   x2="860" y2="55"  stroke="#f9fafb" stroke-width="18"/>
-  <line x1="830" y1="0"   x2="860" y2="25"  stroke="#f3f4f6" stroke-width="12"/>
-  <!-- Left accent bar -->
-  <rect x="0" y="0" width="6" height="180" rx="3" fill="url(#b6ac)"/>
-  <rect x="56" y="46" width="4" height="88" rx="2" fill="url(#b6ac)"/>
-  <!-- Name -->
-  <text x="78" y="96" font-family="'Segoe UI', system-ui, sans-serif" font-size="34" font-weight="700" fill="#111827">Kommidi Rithika Reddy</text>
-  <!-- Tagline -->
-  <text x="78" y="124" font-family="'Segoe UI', system-ui, sans-serif" font-size="14.5" font-weight="400" fill="#6b7280">Full Stack Developer  ·  UI/UX Designer  ·  AI &amp; Data Enthusiast</text>
-  <!-- Status pill -->
-  <rect x="78" y="138" width="218" height="24" rx="12" fill="url(#b6ac)" opacity="0.12"/>
-  <rect x="78" y="138" width="218" height="24" rx="12" fill="none" stroke="#6366f1" stroke-width="1" opacity="0.5"/>
-  <circle cx="94" cy="150" r="4" fill="#6366f1"/>
-  <text x="105" y="154.5" font-family="'Segoe UI', system-ui, sans-serif" font-size="11.5" font-weight="600" fill="#4f46e5">Open to Work · San Jose, CA</text>
+  <rect width="860" height="170" rx="12" fill="url(#cy-right)"/>
+  <rect x="0" y="0" width="310" height="170" rx="12" fill="url(#cy-left)"/>
+  <rect x="288" y="0" width="22" height="170" fill="url(#cy-left)"/>
+  <circle cx="270" cy="25"  r="65" fill="#fbbf24" opacity="0.18"/>
+  <circle cx="45"  cy="158" r="50" fill="#fbbf24" opacity="0.14"/>
+  <circle cx="160" cy="8"   r="18" fill="#fef9c3" opacity="0.5"/>
+  <text x="30" y="52" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" font-weight="700" fill="#92400e" letter-spacing="0.1em">FULL STACK · UI/UX · AI</text>
+  <text x="30" y="84" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="800" fill="#1c1917">Rithika Reddy</text>
+  <text x="30" y="108" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="800" fill="#44403c">Kommidi</text>
+  <rect x="30" y="120" width="162" height="20" rx="10" fill="#fbbf24" opacity="0.45"/>
+  <rect x="30" y="120" width="162" height="20" rx="10" fill="none" stroke="#d97706" stroke-width="1" opacity="0.6"/>
+  <circle cx="44" cy="130" r="3.5" fill="#d97706"/>
+  <text x="54" y="134" font-family="'Segoe UI', system-ui, sans-serif" font-size="10.5" font-weight="600" fill="#92400e">Open to Work · San Jose, CA</text>
+  <text x="30" y="158" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" fill="#a16207">kommidirithikareddy.vercel.app</text>
+  <line x1="340" y1="94" x2="840" y2="94" stroke="#d4d4d4" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <circle cx="372" cy="94" r="7" fill="#f59e0b"/>
+  <text x="372" y="72"  text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="9.5" font-weight="700" fill="#92400e">CS Grad</text>
+  <text x="372" y="83"  text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="9"   fill="#a8a29e">2021</text>
+  <circle cx="512" cy="94" r="7" fill="#10b981"/>
+  <text x="512" y="112" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="9.5" font-weight="700" fill="#065f46">Full Stack</text>
+  <text x="512" y="123" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="9"   fill="#a8a29e">2022</text>
+  <circle cx="652" cy="94" r="7" fill="#ca8a04"/>
+  <text x="652" y="72"  text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="9.5" font-weight="700" fill="#92400e">AI / ML</text>
+  <text x="652" y="83"  text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="9"   fill="#a8a29e">2023</text>
+  <circle cx="812" cy="94" r="13" fill="#fde047" opacity="0.30"/>
+  <circle cx="812" cy="94" r="7"  fill="#fbbf24"/>
+  <text x="812" y="112" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="9.5" font-weight="700" fill="#92400e">NOW</text>
+  <text x="812" y="123" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="9"   fill="#a8a29e">Open to Work</text>
+  <text x="590" y="152" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#a8a29e" font-style="italic">Building the future, one commit at a time</text>
+  <rect x="340" y="162" width="500" height="1.5" rx="1" fill="#fde047" opacity="0.7"/>
 </svg>
 
 <!-- Typing SVG -->
@@ -153,16 +167,20 @@ I'm actively looking for **Full Stack**, **Front-End**, or **AI-adjacent** roles
 <!-- SVG Footer -->
 <svg width="860" height="60" viewBox="0 0 860 60" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <linearGradient id="ftbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#fffdf0"/>
+      <stop offset="100%" style="stop-color:#fefce8"/>
+    </linearGradient>
     <linearGradient id="ftline" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   style="stop-color:#ffffff"/>
-      <stop offset="30%"  style="stop-color:#6366f1"/>
-      <stop offset="70%"  style="stop-color:#06b6d4"/>
-      <stop offset="100%" style="stop-color:#ffffff"/>
+      <stop offset="0%"   style="stop-color:#fffdf0"/>
+      <stop offset="30%"  style="stop-color:#fde047"/>
+      <stop offset="70%"  style="stop-color:#fbbf24"/>
+      <stop offset="100%" style="stop-color:#fefce8"/>
     </linearGradient>
   </defs>
-  <rect width="860" height="60" rx="0" fill="#ffffff"/>
-  <rect x="0" y="0" width="860" height="2" fill="url(#ftline)"/>
-  <text x="430" y="38" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#9ca3af">Thanks for visiting — let's build something great together 💻</text>
+  <rect width="860" height="60" fill="url(#ftbg)"/>
+  <rect x="0" y="0" width="860" height="2.5" fill="url(#ftline)"/>
+  <text x="430" y="38" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#a8a29e">Thanks for visiting — let's build something great together 💻</text>
 </svg>
 
 </div>
