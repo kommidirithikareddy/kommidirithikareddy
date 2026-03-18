@@ -1,15 +1,63 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Kommidi%20Rithika%20Reddy&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20%7C%20AI%20%26%20Data&descAlignY=58&descSize=18&animation=fadeIn" />
+<!--  SVG Animated Header — renders natively on GitHub, no external service needed -->
+<svg width="860" height="180" viewBox="0 0 860 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#161b22"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff"/>
+      <stop offset="100%" style="stop-color:#bc8cff"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="180" rx="16" fill="url(#bg)"/>
+
+  <!-- Subtle grid lines -->
+  <line x1="0" y1="60" x2="860" y2="60" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="0" y1="120" x2="860" y2="120" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="215" y1="0" x2="215" y2="180" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="430" y1="0" x2="430" y2="180" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="645" y1="0" x2="645" y2="180" stroke="#ffffff08" stroke-width="1"/>
+
+  <!-- Glowing circles decoration -->
+  <circle cx="760" cy="40" r="60" fill="#58a6ff" opacity="0.06"/>
+  <circle cx="100" cy="150" r="50" fill="#bc8cff" opacity="0.07"/>
+
+  <!-- Accent bar -->
+  <rect x="60" y="52" width="4" height="76" rx="2" fill="url(#accent)"/>
+
+  <!-- Name -->
+  <text x="80" y="90" font-family="'Segoe UI', system-ui, sans-serif" font-size="32" font-weight="700" fill="#ffffff" filter="url(#glow)">Kommidi Rithika Reddy</text>
+
+  <!-- Tagline -->
+  <text x="80" y="118" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="400" fill="#8b949e">Full Stack Developer  ·  UI/UX Designer  ·  AI &amp; Data Enthusiast</text>
+
+  <!-- Status pill -->
+  <rect x="80" y="133" width="220" height="24" rx="12" fill="#238636" opacity="0.85"/>
+  <circle cx="97" cy="145" r="4" fill="#3fb950"/>
+  <text x="108" y="149.5" font-family="'Segoe UI', system-ui, sans-serif" font-size="11.5" font-weight="600" fill="#ffffff">Open to Work · San Jose, CA</text>
+
+  <!-- Dots decoration -->
+  <circle cx="700" cy="90" r="3" fill="#58a6ff" opacity="0.7"/>
+  <circle cx="716" cy="90" r="3" fill="#bc8cff" opacity="0.7"/>
+  <circle cx="732" cy="90" r="3" fill="#58a6ff" opacity="0.7"/>
+</svg>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+products+people+love+%F0%9F%9A%80;Full+Stack+%7C+React+%7C+Node.js+%7C+Django;AI+Explorer+%7C+NLP+%7C+LLMs;Open+to+Exciting+Opportunities+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+products+people+love+%F0%9F%9A%80;Full+Stack+%7C+React+%7C+Node.js+%7C+Django;AI+Explorer+%7C+NLP+%7C+LLMs;Open+to+Exciting+Opportunities+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kommidirithikareddy/)
+<!-- Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kommidirithikareddy.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kommidirithikareddy@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kommidirithikareddy)
@@ -127,18 +175,31 @@ I'm actively looking for **Full Stack**, **Front-End**, or **AI-adjacent** roles
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kommidirithikareddy/)
 [![Portfolio](https://img.shields.io/badge/See_my_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kommidirithikareddy.vercel.app/)
 [![Email](https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kommidirithikareddy@gmail.com)
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 > *"Progress comes from curiosity and consistency."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/>
+<!-- SVG Footer -->
+<svg width="860" height="60" viewBox="0 0 860 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#161b22"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="30%" style="stop-color:#58a6ff"/>
+      <stop offset="70%" style="stop-color:#bc8cff"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="60" rx="0" fill="url(#footerbg)"/>
+  <rect x="0" y="0" width="860" height="3" fill="url(#line)"/>
+  <text x="430" y="38" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8b949e">Thanks for visiting — let's build something great together 💻</text>
+</svg>
 
 </div>
