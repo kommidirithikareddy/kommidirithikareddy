@@ -1,76 +1,144 @@
+<div align="center">
 
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Kommidi%20Rithika%20Reddy&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20%7C%20AI%20%26%20Data&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="banner.png" alt="Banner" width="100%">
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+products+people+love+%F0%9F%9A%80;Full+Stack+%7C+React+%7C+Node.js+%7C+Django;AI+Explorer+%7C+NLP+%7C+LLMs;Open+to+Exciting+Opportunities+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-# 👋 Hey there, I'm Rithika!  
+<br/>
 
-I'm a Full Stack Developer, UI/UX Designer, Data Enthusiast, and AI Explorer 🚀. I love building things that solve real-world problems and make life easier—or at least more fun!  
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kommidirithikareddy/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kommidirithikareddy.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kommidirithikareddy@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kommidirithikareddy)
 
----
+<br/>
 
-## 🎯 What I Do
-- Build **responsive, scalable web apps** using React, Angular, Node.js, and Django  
-- Explore **AI/ML** to create smarter applications (LLMs, NLP, Predictive Models)  
-- Design **data-driven dashboards** with Power BI, Tableau, and Python visualizations  
-- Deploy and maintain apps on **Azure Cloud** with CI/CD pipelines  
+> 💼 **Actively seeking Full Stack / Front-End / AI roles** — Open to full-time, internship & contract opportunities!
 
----
-
-## 🔧 My Toolbox
-
-```javascript
-const rithika = {
-  languages: ["Java", "Python", "JavaScript", "TypeScript", "SQL"],
-  frontend: ["React", "Angular", "HTML", "CSS", "Bootstrap", "Figma"],
-  backend: ["Node.js", "Express.js", "Django", "REST APIs", "Microservices", "Redis"],
-  databases: ["MySQL", "PostgreSQL", "MongoDB", "NoSQL"],
-  cloudDevOps: ["Azure", "Docker", "CI/CD", "GitHub Actions", "Azure DevOps"],
-  aiAndData: ["Scikit-learn", "NLP", "Prompt Engineering", "Power BI", "Tableau"]
-};
-
-```
----
-
-## 🚀 Projects I’m Proud Of
-- **LLM Verification & Validation** – Tested and improved large language models like ChatGPT, Bard AI, Llama
-  
-- **Pharmacy Management System** – Full-stack web app to manage inventory, billing, and customers
-  
-- **Cybercrime Prevention** – Java + ML project to detect and prevent anomalies in cybersecurity
-  
-- **Music Streamer** – Node.js + MongoDB backend for managing multiple users and streaming data  
+</div>
 
 ---
 
-## 🧩 Fun Facts
-- I debug like it’s a puzzle 🧩
-- I enjoy turning complex problems into clean UIs
-- Music + coding = perfect focus 🎧
+## 👩‍💻 About Me
+
+Hey! I'm **Rithika** — a passionate **Full Stack Developer** based in **San Jose, CA** who thrives at the intersection of clean code, beautiful design, and intelligent systems.
+
+- 🔭 I build **scalable web apps** with React, Angular, Node.js, and Django
+- 🤖 I explore **AI/ML** — LLMs, NLP, prompt engineering, and predictive models
+- 📊 I turn raw data into **actionable insights** using Power BI, Tableau & Python
+- ☁️ I deploy production apps on **Azure** with CI/CD pipelines & Docker
+- 🎨 I care deeply about **UI/UX** — design is not an afterthought, it's the experience
+- 💡 Fun fact: I debug like it's a puzzle, and music is my focus fuel 🎧
 
 ---
 
-## 🌱 Currently Working On
-- Building **modern web applications** with a focus on **front-end development** and **UI/UX design**  
-- Exploring **AI/ML projects**, including **LLMs, NLP, and predictive models**  
-- Developing **interactive dashboards** and data-driven tools  
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Cloud, DevOps & AI
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+</div>
 
 ---
-## 🌐 Let’s Connect!
-I’m always open to collaborating on fun projects, sharing knowledge, or just geeking out over tech!  
 
-📫 Email: [kommidirithikareddy@gmail.com](mailto:kommidirithikareddy@gmail.com)  
+## 🚀 Featured Projects
 
-🔗 LinkedIn: [Rithika Reddy Kommidi](https://www.linkedin.com/in/kommidirithikareddy/)  
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🤖 **LLM Verification & Validation** | Tested & improved large language models including ChatGPT, Bard AI, and Llama through structured evaluation | Python, NLP, Prompt Engineering |
+| 💊 **Pharmacy Management System** | Full-stack app managing inventory, billing, and customer records with a clean UI | Java, HTML, CSS, MySQL |
+| 🔐 **Cybercrime Prevention** | ML-based anomaly detection system to identify and prevent cybersecurity threats | Java, Scikit-learn, ML |
+| 🎵 **Music Streamer** | Backend system for multi-user music streaming with real-time data management | Node.js, MongoDB, REST APIs |
 
-🌐 Portfolio: [My_Website](https://kommidirithikareddy.vercel.app/)  
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kommidirithikareddy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kommidirithikareddy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kommidirithikareddy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 💬 Thought of the Moment
+## 🏆 GitHub Trophies
 
-> “Progress comes from curiosity and consistency.” 
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kommidirithikareddy&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kommidirithikareddy&layout=compact&theme=tokyonight)
+
+## 🌱 Currently Exploring
+
+- 🧠 **Agentic AI** — Building AI agents with LangChain and LLM orchestration
+- ⚡ **Next.js 14** — App Router, Server Components, and edge deployments
+- 🎨 **Design Systems** — Creating scalable, accessible component libraries
+
 ---
-Thanks for visiting — let’s keep building, learning, and growing.💻
+
+## 💬 Let's Connect
+
+I'm actively looking for **Full Stack**, **Front-End**, or **AI-adjacent** roles where I can build meaningful products. If you're hiring or know of opportunities, I'd love to chat!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kommidirithikareddy/)
+[![Portfolio](https://img.shields.io/badge/See_my_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kommidirithikareddy.vercel.app/)
+[![Email](https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kommidirithikareddy@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Progress comes from curiosity and consistency."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/>
+
+</div>
