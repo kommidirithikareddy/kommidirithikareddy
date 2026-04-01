@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Rithika Reddy Kommidi — Full Stack Developer" width="100%"/>
+<img src="./banner new.svg" alt="Rithika Reddy Kommidi — Full Stack Developer" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=ca8a04&center=true&vCenter=true&width=600&lines=Building+products+people+love+%F0%9F%9A%80;Full+Stack+%7C+React+%7C+Node.js+%7C+Django;AI+Explorer+%7C+NLP+%7C+LLMs;Open+to+Exciting+Opportunities+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
