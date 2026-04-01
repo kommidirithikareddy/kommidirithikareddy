@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner new.svg" alt="Rithika Reddy Kommidi — Full Stack Developer" width="100%"/>
+<img src="./banner.svg" alt="Rithika Reddy Kommidi — Full Stack Developer" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=ca8a04&center=true&vCenter=true&width=600&lines=Building+products+people+love+%F0%9F%9A%80;Full+Stack+%7C+React+%7C+Node.js+%7C+Django;AI+Explorer+%7C+NLP+%7C+LLMs;Open+to+Exciting+Opportunities+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
@@ -48,12 +48,19 @@ const rithika = {
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🤖 **LLM Verification & Validation** | Tested & improved large language models including ChatGPT, Bard AI, and Llama through structured evaluation | Python, NLP, Prompt Engineering |
-| 💊 **Pharmacy Management System** | Full-stack app managing inventory, billing, and customer records with a clean UI | Java, HTML, CSS, MySQL |
-| 🔐 **Cybercrime Prevention** | ML-based anomaly detection system to identify and prevent cybersecurity threats | Java, Scikit-learn, ML |
-| 🎵 **Music Streamer** | Backend system for multi-user music streaming with real-time data management | Node.js, MongoDB, REST APIs |
+| Project | Description | Tech | Links |
+|--------|-------------|------|-------|
+| ⚖️ **LexAI — AI Legal Clause Analyzer** | AI-powered app that analyzes legal clauses for risks, missing terms & plain-English summaries with color-coded risk levels | React, TypeScript, Tailwind CSS, AI API, Vite | [GitHub](https://github.com/kommidirithikareddy/ai-legal-clause-analyzer) |
+| 💬 **DocChat — AI Document Q&A** | Upload any PDF or text file and chat with it using AI. Multi-turn chat, suggested questions, client-side PDF extraction — no backend needed | React, TypeScript, Tailwind CSS, AI API, PDF.js | [GitHub](https://github.com/kommidirithikareddy/AI-document-question-and-answers) |
+| 📰 **NewsAI — Svelte AI Dashboard** | SvelteKit dashboard with live news, per-article AI summaries and cross-article trend analysis. Category filtering & reactive Svelte stores | SvelteKit, TypeScript, Tailwind CSS, AI API, GNews API | [GitHub](https://github.com/kommidirithikareddy/News-AI-Dashboard) |
+| 🧮 **Calc App** | Clean, responsive calculator app built with React + Vite and styled with SCSS. Deployed live on Vercel | React, Vite, SCSS, Tailwind CSS | [GitHub](https://github.com/kommidirithikareddy/Calc) · [Live](https://calc-calculate-better.vercel.app/) |
+| 🎨 **Brand Studio** | A brand identity tool built as a single-file HTML app — generate color palettes, typography pairings and visual identity assets | HTML, CSS, JavaScript | [GitHub](https://github.com/kommidirithikareddy/brand-studio) |
+| 📖 **Story Weaver** | Interactive storytelling app that lets users build and navigate branching narrative experiences | [GitHub](https://github.com/kommidirithikareddy/story-weaver) |
+| 🌐 **Portfolio Website** | Personal portfolio with Work, Projects, Skills & Contact pages — built with Bootstrap 5 and deployed on Vercel | HTML, CSS, Bootstrap 5, JavaScript | [GitHub](https://github.com/kommidirithikareddy/My_Portfolio_Website) · [Live](https://kommidirithikareddy.vercel.app/) |
+| 🤖 **LLM Verification & Validation** | Tested & improved large language models including ChatGPT, Bard AI, and Llama through structured evaluation | Python, NLP, Prompt Engineering | — |
+| 💊 **Pharmacy Management System** | Full-stack app managing inventory, billing, and customer records with a clean UI | Java, HTML, CSS, MySQL | [GitHub](https://github.com/kommidirithikareddy/PMS) |
+| 🔐 **Cybercrime Prevention** | ML-based anomaly detection system to identify and prevent cybersecurity threats | Java, Scikit-learn, ML | — |
+| 🎵 **Music Streamer** | Backend system for multi-user music streaming with real-time data management | Node.js, MongoDB, REST APIs | — |
 
 ---
 
