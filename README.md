@@ -12,7 +12,7 @@
 
 <br/>
 
-> 💼 **Actively seeking Full Stack / Front-End / AI roles** — Open to full-time, internship & contract opportunities!
+> 💼 **Actively seeking Full Stack / Front-End / AI Product Engineer roles** — Open to full-time, internship & contract opportunities!
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ## 👩‍💻 About Me
 
-Hey! I'm **Rithika** — a passionate **Full Stack Developer** based in **San Jose, CA** who thrives at the intersection of clean code, beautiful design, and intelligent systems.
+Hey! I'm **Rithika** — a passionate **Full Stack Developer** who thrives at the intersection of clean code, beautiful design, and intelligent systems.
 
 - 🔭 I build **scalable web apps** with React, Angular, Node.js, and Django
 - 🤖 I explore **AI/ML** — LLMs, NLP, prompt engineering, and predictive models
@@ -36,7 +36,7 @@ Hey! I'm **Rithika** — a passionate **Full Stack Developer** based in **San Jo
 ```javascript
 const rithika = {
   languages:   ["Java", "Python", "JavaScript", "TypeScript", "SQL"],
-  frontend:    ["React", "Angular", "HTML", "CSS", "Bootstrap", "Figma"],
+  frontend:    ["React", "Next.js", "Angular", "HTML", "CSS", "Bootstrap", "Figma"],
   backend:     ["Node.js", "Express.js", "Django", "REST APIs", "Microservices", "Redis"],
   databases:   ["MySQL", "PostgreSQL", "MongoDB", "NoSQL"],
   cloudDevOps: ["Azure", "Docker", "CI/CD", "GitHub Actions", "Azure DevOps"],
@@ -84,14 +84,15 @@ const rithika = {
 ## 🌱 Currently Exploring
 
 - 🧠 **Agentic AI** — Building AI agents with LangChain and LLM orchestration
-- ⚡ **Next.js 14** — App Router, Server Components, and edge deployments
+- 🛡️ **AI Safety & AI Ethics** — Responsible AI design, alignment, and evaluation practices
+- 🧩 **Context Engineering** — Designing context and memory strategies for LLM-powered systems
 - 🎨 **Design Systems** — Creating scalable, accessible component libraries
 
 ---
 
 ## 💬 Let's Connect
 
-I'm actively looking for **Full Stack**, **Front-End**, or **AI-adjacent** roles where I can build meaningful products. If you're hiring or know of opportunities, I'd love to chat!
+I'm actively looking for **Full Stack**, **Front-End**, or **AI Product Engineer** roles where I can build meaningful products. If you're hiring or know of opportunities, I'd love to chat!
 
 <div align="center">
 
